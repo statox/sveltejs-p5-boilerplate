@@ -1,6 +1,6 @@
 <script lang="ts">
     import P5 from 'p5';
-    import {externalCommand} from './service';
+    import {externalCommand} from '../services/service';
     export let data;
 
     const sketch = (p5: P5) => {

@@ -1,6 +1,6 @@
 <script lang="ts">
-import Controls from './Controls.svelte';
-import Simulation from './Simulation.svelte';
+import Controls from './components/Controls.svelte';
+import Simulation from './components/Simulation.svelte';
 
 const appData = {
     ruleNumber: 46
