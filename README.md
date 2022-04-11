@@ -11,3 +11,4 @@ It contains:
  TODO:
 
  - Add github pages configuration
+ - Remove useless boilerplate configuration from template
